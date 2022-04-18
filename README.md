@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+### `git config --global core.autocrlf false`
+Run this to setup local git before cloning the repository on Windows, this will avoid error `Delete 'cr' [prettier/prettier]?` when starting the project.
+
 In the project directory, you can run:
 
 ### `yarn start`
